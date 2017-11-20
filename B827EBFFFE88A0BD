@@ -1,0 +1,18 @@
++{
+ +  "gateway_conf": {
+ +    "gateway_ID": "B827EBFFFE88A0BD",
+ +    "servers": [
+ +      {
+ +        "server_address": "router.eu.thethings.network",
+ +        "serv_port_up": 1700,
+ +        "serv_port_down": 1700,
+ +        "serv_enabled": true
+ +      }
+ +    ],
+ +    "ref_latitude": 6.3791097,
+ +    "ref_longitude": 106.82299999,
+ +    "ref_altitude": 82,
+ +    "contact_email": "hakhdan@gmail.com",
+ +    "description": "TTN Akhdan(IDN)"
+ +  }
+ +}
