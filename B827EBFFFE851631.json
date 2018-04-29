@@ -9,8 +9,8 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 107.675388,
-    "ref_longitude": -6.962159,
+    "ref_latitude": -6.96196308,
+    "ref_longitude": 107.67528159,
     "ref_altitude": 40,
     "contact_email": "hakhdan@gmail.com",
     "description": "TTN Akhdan UI"
